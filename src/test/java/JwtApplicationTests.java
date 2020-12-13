@@ -16,6 +16,7 @@ class JwtApplicationTests {
 
     @Test
     void contextLoads() {
+        //创建令牌
         HashMap<String, Object> map = new HashMap<>();
         Calendar instance = Calendar.getInstance();
         instance.add(Calendar.SECOND,60);
