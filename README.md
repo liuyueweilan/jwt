@@ -1,5 +1,5 @@
 # jwt
-learning jwt
+
 JWT简称JSON  WebToken,也就是通过JSON形式作为Web应用中的令牌,用于在各方之间安全地将信息作为JSON对象传输。在数据传输过程中还可以完成数据加密、签名等相关处理。
 ```
 
